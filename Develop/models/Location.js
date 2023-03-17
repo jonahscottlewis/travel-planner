@@ -17,7 +17,7 @@ Location.init(
     },
     {
         sequalize,
-        modelName: 'traveller',
+        modelName: 'location',
     }
 )
 

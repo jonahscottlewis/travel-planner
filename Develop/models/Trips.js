@@ -21,7 +21,7 @@ Trips.init(
     },
     {
         sequalize,
-        modelName: 'traveller',
+        modelName: 'trips',
     }
 );
 
